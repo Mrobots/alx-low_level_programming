@@ -1,5 +1,6 @@
 #include <stdio.h>
 void main()
+
 {
 int _putchar(char c);
 int _islower(int c);
